@@ -13,7 +13,7 @@
 
 - Chào thế giới
 
-- [Chương 1: Cấu trúc điều khiển](./chapter-1/Chapter1.md)
+- [Chương 1: Cấu trúc điều khiển](./chapter-1/Chater1.md)
 
 - [Chương 2: Hàm](./chapter-2/chapter2.md)
 
